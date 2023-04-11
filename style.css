@@ -1,0 +1,10 @@
+.animate-spin{
+    width: 6rem;
+}
+img.logo{
+    width: 5rem; 
+    height: 3rem;
+    position: absolute;
+    top: 24rem;
+}
+
